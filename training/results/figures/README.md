@@ -1,0 +1,1 @@
+chứa các kết quả của mô hình dạng biểu đồ

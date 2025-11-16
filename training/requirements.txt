@@ -1,1 +1,10 @@
 # các thư viện cần thiết cho dự án
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+torch
+datasets
+spacy
+pyvi

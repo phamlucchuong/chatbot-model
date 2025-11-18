@@ -1,0 +1,20 @@
+{"text": "Tôi bị đau đầu và sốt nhẹ", "entities": [[7, 14, "SYMPTOM"], [18, 25, "SYMPTOM"]]}
+{"text": "Mấy hôm nay tôi ho khan và đau họng", "entities": [[16, 23, "SYMPTOM"], [27, 35, "SYMPTOM"]]}
+{"text": "Tôi bị sổ mũi và nghẹt mũi mấy ngày nay", "entities": [[7, 13, "SYMPTOM"], [17, 26, "SYMPTOM"]]}
+{"text": "Cơ thể tôi rất mệt mỏi và uể oải", "entities": [[15, 22, "SYMPTOM"], [26, 32, "SYMPTOM"]]}
+{"text": "Tôi có triệu chứng ớn lạnh và đau nhức toàn thân", "entities": [[19, 26, "SYMPTOM"], [30, 48, "SYMPTOM"]]}
+{"text": "Sốt cao và ho có phải là triệu chứng của bệnh cảm cúm không", "entities": [[0, 7, "SYMPTOM"], [11, 13, "SYMPTOM"], [46, 53, "DISEASE"]]}
+{"text": "Cháu nhà tôi bị chảy nước mũi liên tục", "entities": [[16, 29, "SYMPTOM"]]}
+{"text": "Ngoài đau họng tôi còn bị mất vị giác", "entities": [[6, 14, "SYMPTOM"], [26, 37, "SYMPTOM"]]}
+{"text": "Tôi cảm thấy mệt mỏi và buồn nôn", "entities": [[13, 20, "SYMPTOM"], [24, 32, "SYMPTOM"]]}
+{"text": "Con tôi bị sốt cao và rét run", "entities": [[11, 18, "SYMPTOM"], [22, 29, "SYMPTOM"]]}
+{"text": "Triệu chứng hắt hơi và chảy nước mũi là dấu hiệu cảm lạnh đúng không", "entities": [[12, 19, "SYMPTOM"], [23, 36, "SYMPTOM"], [49, 57, "DISEASE"]]}
+{"text": "Tôi bị ho có đờm đã 3 ngày", "entities": [[7, 16, "SYMPTOM"]]}
+{"text": "Cổ họng tôi đau rát khi nuốt", "entities": [[12, 19, "SYMPTOM"]]}
+{"text": "Sáng nay tôi thức dậy thấy đau nhức cơ bắp", "entities": [[27, 42, "SYMPTOM"]]}
+{"text": "Tôi bị nghẹt mũi nặng và khó thở", "entities": [[7, 16, "SYMPTOM"], [25, 32, "SYMPTOM"]]}
+{"text": "Tôi không sốt nhưng rất mệt", "entities": [[10, 13, "SYMPTOM"], [24, 27, "SYMPTOM"]]}
+{"text": "Em bé bị sổ mũi và ho nhẹ", "entities": [[9, 15, "SYMPTOM"], [19, 25, "SYMPTOM"]]}
+{"text": "Tôi bị cảm lạnh và sốt cao", "entities": [[7, 15, "DISEASE"], [19, 26, "SYMPTOM"]]}
+{"text": "Đau cơ và sốt là triệu chứng của bệnh nào", "entities": [[0, 6, "SYMPTOM"], [10, 13, "SYMPTOM"], [33, 41, "DISEASE"]]}
+{"text": "Tôi bị đau đầu dữ dội và buồn nôn", "entities": [[7, 14, "SYMPTOM"], [25, 33, "SYMPTOM"]]}

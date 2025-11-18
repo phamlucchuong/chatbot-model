@@ -1,1 +1,8 @@
-# các thư viện cần thiết cho dự án
+fastapi
+uvicorn
+pydantic
+spacy
+scikit-learn
+numpy
+python-multipart
+pyvi

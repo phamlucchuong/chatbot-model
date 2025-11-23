@@ -1,8 +1,15 @@
-fastapi
-uvicorn
-pydantic
-spacy
-scikit-learn
-numpy
-python-multipart
-pyvi
+# ==================== WEB FRAMEWORK ====================
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# ==================== PYTORCH (CUDA 12.4) ====================
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0+cu124
+
+# ==================== TRANSFORMERS & NLP ==================== 
+transformers==4.46.0
+sentencepiece  # Không chỉ định version cụ thể
+
+# ==================== ML ====================
+scikit-learn==1.5.2
+numpy==2.1.3

@@ -3,8 +3,9 @@ pandas
 numpy
 matplotlib
 scikit-learn
-transformers
-torch
-datasets
+transformers>=4.30.0
+datasets>=2.14.0
 spacy
 pyvi
+accelerate>=0.20.0
+seqeval>=1.2.2

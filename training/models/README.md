@@ -1,1 +1,0 @@
-chứa file model sau khi đã train xong
